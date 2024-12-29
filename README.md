@@ -20,7 +20,7 @@ Well, I believe some of them are hard to set on the mainline...
 - [ ] Mindustry：像素工厂
 
 # Education
-- [ ] FriCAS：据说是算符号积分很厉害的
+- [x] FriCAS：据说是算符号积分很厉害的
 - [ ] TexMacs：各类计算机代数系统的交互系统
 - [ ] GeoGebra：几何画板类似物
 - [ ] GCompris：幼儿园到三年级教育软件大杂烩
