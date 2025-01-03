@@ -1,0 +1,7 @@
+abinfo "Configuring..."
+./configure
+abinfo "Compiling..."
+make
+abinfo "Installing..."
+make install DESTDIR=$PKGDIR PREFIX="/usr"
+

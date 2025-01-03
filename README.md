@@ -7,7 +7,7 @@ Well, I believe some of them are hard to set on the mainline...
 
 # Game-Engine
 
-- [x] DSDA-DOOM：经典 DOOM 引擎
+- [ ] DSDA-DOOM：经典 DOOM 引擎
 - [ ] ioquake3：雷神之锤 3 引擎
 - [ ] RBDOOM3BFG：DOOM 3 BFG 引擎
 - [ ] OpenRCT2：过山车大亨引擎
@@ -16,18 +16,23 @@ Well, I believe some of them are hard to set on the mainline...
 # Game-FOSS
 - [ ] PikaFish：中国象棋引擎
 - [ ] Micropolis：初代模拟城市 Java 重写版
-- [ ] Extreme Tux Racer：企鹅滑雪好玩捏
-- [ ] Mindustry：像素工厂
+- [x] Extreme Tux Racer：企鹅滑雪好玩捏
+- [x] Mindustry：像素工厂
+- [ ] OpenArena：开源（动漫）版本雷三竞技场
 
 # Education
 - [x] FriCAS：据说是算符号积分很厉害的
-- [ ] TexMacs：各类计算机代数系统的交互系统
+- [ ] ~~TexMacs~~：各类计算机代数系统的交互系统，编译过程依赖很老版本的 Guile
+- [ ] Mogan：上面那个玩意的改进版本，等待 XMake 被上游接受后再搞
 - [ ] GeoGebra：几何画板类似物
 - [ ] GCompris：幼儿园到三年级教育软件大杂烩
 
 # Music
 - [x] ~~Amarok~~：音乐管理器，这软件运行居然需要 mariadb？
 - [ ] BitWave：Fluent 设计风格播放器
+
+# Develop
+- [x] xmake: 一个好用些的管理系统。
 
 # Random
 - [ ] DBeaver：数据库管理器

@@ -1,0 +1,10 @@
+abinfo "Updating dependencies..."
+xmake repo --update --yes
+abinfo "Checking out QT version..."
+QT6_VERSION=$(qmake6 -query QT_VERSION)
+abinfo "Configuring..."
+xmake config -vD --policies=build.ccache -m releasedbg --yes --qt_sdkver=${QT6_VERSION}
+abinfo "Building..."
+xmake build --yes -vD research
+abinfo "Installing to PKGDIR..."
+xmake install --root -o $PKGDIR/usr research

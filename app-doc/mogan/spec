@@ -1,0 +1,4 @@
+VER=1.2.9.8
+SRCS="git::commit=tags/$VER::https://github.com/XmacsLabs/mogan.git"
+CHKSUMS="SKIP"
+CHKUPDATE="git::https://github.com/XmacsLabs/mogan.git"

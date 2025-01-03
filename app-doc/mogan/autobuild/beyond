@@ -1,0 +1,3 @@
+# Fix "Can"t translate pathname "usr/share/Xmacs/tests/64_1_中文文件名.tm" to UTF-8"
+rm -rf $PKGDIR/usr/share/Xmacs/tests
+

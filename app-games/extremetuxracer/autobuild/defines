@@ -1,0 +1,4 @@
+PKGNAME=extremetuxracer
+PKGDES="Downhill racing game starring Tux"
+PKGSEC=games
+PKGDEP="sfml glu freetype"

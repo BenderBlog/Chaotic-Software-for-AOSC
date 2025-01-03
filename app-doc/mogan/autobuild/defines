@@ -1,0 +1,6 @@
+PKGNAME=mogan
+PKGSEC=tex
+PKGDEP="qt-6 noto-cjk-fonts libpng libjpeg-turbo sqlite zlib unzip curl texlive python-3 x11-lib libgit2 mimalloc fontconfig freetype openssl"
+PKGDES="A structured wysiwyg scientific text editor"
+BUILDDEP="xmake"
+PKGRECOM="gawk ghostscript imagemagisk aspell"

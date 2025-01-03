@@ -1,6 +1,6 @@
 PKGNAME=fricas
 PKGSEC=math
-PKGDEP="gawk x11-lib" #ignore libxpm
+PKGDEP="gawk x11-lib"
 BUILDDEP="ecl"
 PKGDES="A advanced computer algebra system"
 

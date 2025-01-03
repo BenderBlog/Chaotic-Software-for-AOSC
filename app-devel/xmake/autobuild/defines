@@ -1,0 +1,4 @@
+PKGNAME=xmake
+PKGDES="A cross-platform build utility based on Lua"
+PKGSEC=devel
+BUILDDEP="ncurses readline"
