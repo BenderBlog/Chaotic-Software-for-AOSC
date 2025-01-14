@@ -16,8 +16,8 @@ Well, I believe some of them are hard to set on the mainline...
 # Game-FOSS
 - [ ] PikaFish：中国象棋引擎
 - [ ] Micropolis：初代模拟城市 Java 重写版
-- [x] Extreme Tux Racer：企鹅滑雪好玩捏
-- [x] Mindustry：像素工厂
+- [x] Extreme Tux Racer：企鹅滑雪好玩捏（已经上架）
+- [x] Mindustry：像素工厂（正在上架）
 - [ ] OpenArena：开源（动漫）版本雷三竞技场
 
 # Education
@@ -32,7 +32,7 @@ Well, I believe some of them are hard to set on the mainline...
 - [ ] BitWave：Fluent 设计风格播放器
 
 # Develop
-- [x] xmake: 一个好用些的管理系统。
+- [x] xmake: 一个好用些的管理系统
 
 # Random
 - [ ] DBeaver：数据库管理器
