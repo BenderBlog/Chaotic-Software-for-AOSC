@@ -22,7 +22,7 @@ Well, I believe some of them are hard to set on the mainline...
 
 # Education
 - [x] FriCAS：据说是算符号积分很厉害的（正在上架）
-- [ ] Maxima：Mathematica 来了都要叫老祖宗（正在适配 sbcl 中）
+- [x] Maxima：Mathematica 来了都要叫老祖宗（上游有，正在适配 sbcl 中）
 - [ ] TexMacs：各类计算机代数系统的交互系统，编译过程依赖很老版本的
 - [ ] GeoGebra：几何画板似物
 - [x] GCompris：幼儿园到三年级教育软件大杂烩
