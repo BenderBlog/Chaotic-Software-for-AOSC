@@ -21,11 +21,11 @@ Well, I believe some of them are hard to set on the mainline...
 - [ ] OpenArena：开源（动漫）版本雷三竞技场
 
 # Education
-- [x] FriCAS：据说是算符号积分很厉害的
-- [ ] ~~TexMacs~~：各类计算机代数系统的交互系统，编译过程依赖很老版本的 Guile
-- [ ] Mogan：上面那个玩意的改进版本，等待 XMake 被上游接受后再搞
-- [ ] GeoGebra：几何画板类似物
-- [ ] GCompris：幼儿园到三年级教育软件大杂烩
+- [x] FriCAS：据说是算符号积分很厉害的（正在上架）
+- [ ] Maxima：Mathematica 来了都要叫老祖宗（正在适配 sbcl 中）
+- [ ] TexMacs：各类计算机代数系统的交互系统，编译过程依赖很老版本的
+- [ ] GeoGebra：几何画板似物
+- [x] GCompris：幼儿园到三年级教育软件大杂烩
 
 # Music
 - [x] ~~Amarok~~：音乐管理器，这软件运行居然需要 mariadb？
