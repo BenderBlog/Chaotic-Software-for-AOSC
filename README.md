@@ -16,14 +16,15 @@ Well, I believe some of them are hard to set on the mainline...
 # Game-FOSS
 - [ ] PikaFish：中国象棋引擎
 - [ ] Micropolis：初代模拟城市 Java 重写版
-- [x] Extreme Tux Racer：企鹅滑雪好玩捏（已经上架）
+- [x] Extreme Tux Racer：企鹅滑雪好玩捏
 - [x] Mindustry：像素工厂（正在上架）
 - [ ] OpenArena：开源（动漫）版本雷三竞技场
 
 # Education
 - [x] FriCAS：据说是算符号积分很厉害的（正在上架）
-- [x] Maxima：Mathematica 来了都要叫老祖宗（上游有，正在适配 sbcl 中）
-- [ ] TexMacs：各类计算机代数系统的交互系统，编译过程依赖很老版本的
+- [x] Maxima：Mathematica 来了都要叫老祖宗
+- [ ] ~~TexMacs~~：各类计算机代数系统的交互系统，编译过程依赖很老版本的
+- [ ] mogan：texmacs 改进版本
 - [ ] GeoGebra：几何画板似物
 - [x] GCompris：幼儿园到三年级教育软件大杂烩
 
